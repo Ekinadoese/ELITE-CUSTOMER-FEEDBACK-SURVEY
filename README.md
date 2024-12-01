@@ -1,4 +1,5 @@
-[attachment.csv](https://github.com/user-attachments/files/17970181/attachment.csv)# ELITE-CUSTOMER-FEEDBACK-SURVEY
+# ELITE-CUSTOMER-FEEDBACK-SURVEY
+
 A Summary of insight drawn from customer web traffic and feedback survey data
 
 ## TOOLS USED
@@ -9,35 +10,11 @@ POWER BI
 
 ## DATA 
 
-[UploadingProject_ID,Client_Name,Project_Type,Project_Status,Customer_Feedback_Score,Start_Date,End_Date, Website_Traffic , Project_Budget ,Number_of_Team_Members
-1,TechCorp,AI Development,Completed,4,1/31/2023,7/31/2023 0:00," 3,700 "," 75,692.00 ",14
-2,Innova Solutions,Data Analysis,In Progress,5,2/28/2023,8/31/2023 0:00," 4,956 "," 121,284.00 ",7
-3,DataMax,AI Consulting,Completed,4,3/31/2023,9/30/2023 0:00," 4,162 "," 182,850.00 ",9
-4,BioLabs,Research,In Progress,,4/30/2023,10/31/2023 0:00, 772 ," 70,482.00 ",7
-5,AI Nexus,AI Development,Pending,3,5/31/2023,11/30/2023 0:00," 3,040 "," 80,002.00 ",3
-6,SmartGrid,Infrastructure,Completed,2,6/30/2023,12/31/2023 0:00," 3,818 "," 174,704.00 ",9
-7,VisionaryTech,Training,In Progress,4,7/31/2023,1/31/2024 0:00," 1,377 "," 118,532.00 ",10
-8,EduLearn,AI Consulting,Completed,4,8/31/2023,2/29/2024 0:00," 1,445 ",,12
-9,MediHealth,Research,Pending,3,9/30/2023,3/31/2024 0:00," 3,542 "," 182,526.00 ",11
-10,AutoFlow,Training,In Progress,4,10/31/2023,4/30/2024 0:00," 4,877 "," 78,059.00 ",10
-11,NextGen AI,AI Development,Completed,2,11/30/2023,5/31/2024 0:00," 4,060 "," 79,426.00 ",12
-12,EcoInnovate,Data Analysis,Completed,2,12/31/2023,6/30/2024 0:00," 2,269 "," 134,166.00 ",12
-13,AI Dynamics,Research,In Progress,4,1/31/2024,7/31/2024 0:00," 3,235 "," 125,710.00 ",9
-14,LogiTrack,AI Consulting,Completed,3,2/29/2024,8/31/2024 0:00," 3,205 "," 180,090.00 ",11
-15,NeuroAI,Training,Pending,1,3/31/2024,9/30/2024 0:00," 1,113 "," 157,187.00 ",11
-16,QuantumLeap,AI Development,In Progress,3,4/30/2024,Invalid Date," 1,414 "," 144,543.00 ",13
-17,FinEdge,Data Analysis,Completed,4,5/31/2024,11/30/2024 0:00," 3,488 "," 58,397.00 ",7
+[attachment.csv](https://github.com/user-attachments/files/17970181/attachment.csv)
 
 ## CLEANED DATA
 
 [att.xlsx](https://github.com/user-attachments/files/17970185/att.xlsx)
-
-18,SafeHome,Infrastructure,Pending,1,6/30/2024,12/31/2024 0:00," 1,079 "," 160,626.00 ",11
-19,TransCom,AI Consulting,Completed,4,7/31/2024,1/31/2025 0:00," 1,654 "," 61,962.00 ",5
-20,AgriTech,AI Development,In Progress,5,8/31/2024,2/28/2025 0:00," 3,937 "," 98,928.00 ",13
-6,SmartGrid,Infrastructure,Completed,2,6/30/2023,12/31/2023 0:00," 3,818 "," 174,704.00 ",9
-11,NextGen AI,AI Development,Completed,2,11/30/2023,5/31/2024 0:00," 4,060 "," 79,426.00 ",12
- attachment.csv…]()
 
  ## DATA TRANSFORMATION IN POWER BI
 
